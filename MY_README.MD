@@ -2,7 +2,7 @@
 ## Additional comments to the submission
 
 ### Files uploaded
-* MY_README.MD - this file
+* MY_README.txt - this file
 * plot1..4.png - plot results
 * plot1..4.R - R code which prepares the result files
 * plot_prepare.R - pre-processor code that prepares the subset data for plotting

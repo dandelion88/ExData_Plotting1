@@ -1,4 +1,5 @@
 # get and subset data
+#
 cpdata=read.table("household_power_consumption.txt",sep=";",header=T)
 
 library(lubridate)
